@@ -1,5 +1,4 @@
-# P_1_SOT
-Kassensystem Gemüsehändler
-
-Kurzbeschreibung: Das Programm erstellt eine Rechnung für einen Einkauf bei einem Gemüsehändler.
-dsxycycx
+Dokumentation:
+Read.me datei in Repository mit Kurzbeschreibung hinzugefügt.
+Ordner für Dokumentation, Planung und Implementation erstellt.
+Er Diagramm über Draw.io erstellt.
